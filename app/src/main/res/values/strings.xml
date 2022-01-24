@@ -1,0 +1,19 @@
+<resources>
+    <string name="tab1name">Kod</string>
+    <string name="tab2name">Ustawienia</string>
+    <string name="app_name">BTLockApp</string>
+    <string name="codeEdit">Podaj kod</string>
+    <string name="sendCode">OK</string>
+    <string name="blockade">Przekroczono ilość\n prób!</string>
+    <string name="descNewCode">Podaj nowy kod</string>
+    <string name="descNewAttempt">Podaj nową ilość prób</string>
+    <string name="newCodeHint">4 cyfry</string>
+    <string name="newAttemptHint">Wartość 1-6</string>
+    <string name="changeButton">OK</string>
+    <string name="password">Hasło</string>
+    <string name="loginButton">Zaloguj się</string>
+    <string name="passwordOk">OK</string>
+    <string name="passwordCancel">Anuluj</string>
+    <string name="passwordDesc">Podaj hasło</string>
+
+</resources>
